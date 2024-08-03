@@ -26,4 +26,8 @@ The Puppeteer example test can be found [here](hello-extensions.test.js).
 
 In order to run this test you will need to:
 1. Run `npm install` to install the required npm packages for the end-to-end test. This is only required to be done the first time open this project
-2. To run the Puppeteer end-to-end test run `npm test` 
+2. To run the Puppeteer end-to-end test run `npm test`
+
+
+
+https://vivrichards.co.uk/automation/e2e-testing-chrome-extension-using-puppeteer
